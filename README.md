@@ -13,7 +13,10 @@ messages.
 I don't use my LTE router with a SIM these days but one day I might put this
 to use. Until then, someone else might be able to use it too.
 
-Note: I'm pretty sure there is an android binary somewhere in the router
-powering the cellular and LTE connection, no idea how (in)secure it is.
+Notes:
+
+* I'm pretty sure there is an android binary somewhere in the router
+  powering the cellular and LTE connection, no idea how (in)secure it is.
+* This script uses Python3 and the third-party `requests` module.
 
 Matt
