@@ -2,8 +2,8 @@
 
 I've always wanted to be able to send an SMS from a computer.
 It is possible by subscribing to an SMS service like Twilio, but I mean
-if I have a SIM card, why shouldn't one be able to use it? And why should
-it require an internet connection, if one already has a cellular connection?
+if I have a SIM card, why shouldn't I be able to use it? And why should
+I require an internet connection, if I already have a cellular connection?
 
 When playing with my LTE router, I discovered that it has this feature!
 From the web control panel, one can send and receive SMS messages, and
